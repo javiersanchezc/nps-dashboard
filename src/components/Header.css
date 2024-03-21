@@ -1,0 +1,12 @@
+/* Header.css */
+.header {
+    background-color: grey;
+    text-align: center;
+  }
+  
+  .logo {
+    font-size: 2em; /* Tamaño del texto */
+    font-weight: bold; /* Peso de la fuente */
+    color: white; /* Color del texto */
+  }
+  
